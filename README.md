@@ -1,2 +1,2 @@
 # prueba
-hola mundo
+repositorio prueba Git
